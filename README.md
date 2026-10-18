@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammed%20Ajmal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Generative%20AI&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammed%20Ajmel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI&descAlignY=60&descSize=16" width="100%" />
 </p>
 
 <!-- Typing Animation -->
@@ -18,17 +18,20 @@
   <img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge" alt="Location" />
 </p>
 
-<!-- Social Links -->
+<!-- Contact Links -->
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mohammed-ajmel-57970b326/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:mohammedajmel123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="tel:+919626806473">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209626806473-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
 
@@ -62,7 +65,7 @@ I'm an aspiring AI/ML Developer passionate about building intelligent applicatio
 
 I enjoy turning ideas into practical projects, solving problems, and continuously improving my development skills.
 
-I'm currently building AI-powered applications such as **DocuChat AI**, a document-based question-answering system, and **EcoVision AI**, an AI-powered waste detection and classification application.
+I'm currently working on AI-powered applications such as **DocuChat AI**, a document-based question-answering system, and **EcoVision AI**, an AI-powered waste detection and classification application.
 
 My goal is to develop real-world AI solutions and grow as an AI/ML Developer.
 
@@ -73,8 +76,10 @@ My goal is to develop real-world AI solutions and grow as an AI/ML Developer.
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Programming Skills" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
+
+* SQL
 
 ### ⚙️ Frameworks and Backend Development
 
@@ -113,7 +118,6 @@ My goal is to develop real-world AI solutions and grow as an AI/ML Developer.
 </p>
 
 * MySQL Workbench
-* FastAPI
 * Ollama
 * FAISS
 * Sentence Transformers
@@ -122,7 +126,7 @@ My goal is to develop real-world AI solutions and grow as an AI/ML Developer.
 
 ## 🚀 Featured Projects
 
-### 1. 📄 DocuChat AI — Document-Based AI Assistant
+### 📄 1. DocuChat AI — Document-Based AI Assistant
 
 An AI-powered application that allows users to upload documents and ask questions about their content. It uses Retrieval-Augmented Generation (RAG) to retrieve relevant information and generate context-aware answers.
 
@@ -131,7 +135,7 @@ An AI-powered application that allows users to upload documents and ask question
 * Upload documents and ask questions about their content.
 * Retrieve relevant document sections using semantic search.
 * Generate answers using a locally running large language model.
-* Build a conversational document-question-answering experience.
+* Support document-based question answering.
 
 **Tech Stack:** Python, FastAPI, RAG, FAISS, Sentence Transformers, Ollama
 
@@ -139,7 +143,7 @@ An AI-powered application that allows users to upload documents and ask question
 
 ---
 
-### 2. ♻️ EcoVision AI — AI-Powered Waste Detection
+### ♻️ 2. EcoVision AI — AI-Powered Waste Detection
 
 An AI-powered application designed to detect and classify waste from uploaded images and provide useful information about recycling, disposal, and environmental impact.
 
@@ -156,7 +160,7 @@ An AI-powered application designed to detect and classify waste from uploaded im
 
 ---
 
-### 3. 🐍 Python API Development
+### 🐍 3. Python API Development
 
 Python development projects focused on backend programming, REST API development, database integration, and practical problem-solving.
 
@@ -164,12 +168,12 @@ Python development projects focused on backend programming, REST API development
 
 * Python programming
 * REST API development
-* Database operations using SQL
+* Database integration using SQL
 * Backend application development
 
 **Tech Stack:** Python, FastAPI, Flask, SQL, MySQL
 
-**Repository:** [Explore My GitHub Projects](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+**Repository:** [Explore My Projects](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
 ---
 
@@ -230,30 +234,20 @@ goals:
 
 ---
 
-## 📈 GitHub Activity
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-ajmel-57970b326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:mohammedajmel123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="tel:+919626806473">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209626806473-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call Me" />
+  </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail" alt="Email Me" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
   </a>
 </p>
 
